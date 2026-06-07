@@ -14,6 +14,7 @@
 
 <p align="center">
   <code>PhD Candidate & Graduate Research Assistant</code> ·
+  <code>Acoustics and Functional Material Laborotary</code> ·
   <code>Virginia Polytechnic Institute and State University (Virginia Tech)</code>
 </p>
 
