@@ -14,7 +14,7 @@
 
 <p align="center">
   <code>PhD Candidate & Graduate Research Assistant</code> ·
-  <code>Acoustics and Functional Material Laborotary</code> ·
+  <code>Acoustics and Functional Materials Laborotary</code> ·
   <code>Virginia Polytechnic Institute and State University (Virginia Tech)</code>
 </p>
 
@@ -56,7 +56,7 @@
 <p align="center">
   <img src="https://img.icons8.com/?size=100&id=62397&format=png&color=000000"                                    width="48" height="48" alt="SolidWorks"  style="object-fit:contain; margin:6px"/>&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/14/Ansys_logo_%282019%29.svg"                        width="48" height="48" alt="ANSYS"        style="object-fit:contain; margin:6px"/>&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/28/Comsol_logo.svg"                                  width="48" height="48" alt="COMSOL"       style="object-fit:contain; margin:6px"/>&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/comsol" height="48" width="48" alt="COMSOL" style="margin:6px"/>&nbsp;&nbsp;
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/autocad-icon.png"        width="48" height="48" alt="AutoCAD"      style="object-fit:contain; margin:6px"/>&nbsp;&nbsp;
   <img src="https://i.ibb.co/tP35wGRX/circuit-maker-logo.jpg"                                                     width="48" height="48" alt="CircuitMaker" style="object-fit:contain; margin:6px"/>&nbsp;&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/3ds-max-full.svg"                                               width="48" height="48" alt="3ds Max"      style="object-fit:contain; margin:6px"/>&nbsp;&nbsp;
@@ -83,16 +83,12 @@
 <h3 align="center">Connect</h3>
 
 <p align="center">
-  <a href="mailto:dunuwilaanu@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Anurisha%20Dunuwila-red?style=flat-square&logo=gmail&logoColor=white" />
-  </a>&nbsp;
-  <a href="https://linkedin.com/in/anurisha-dunuwila">
-    <img src="https://img.shields.io/badge/LinkedIn-Anurisha%20Dunuwila-blue?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>&nbsp;
-  <a href="https://www.youtube.com/channel/UCVb5hLFqVkVhcro1zxLjVLw">
-    <img src="https://img.shields.io/badge/YouTube-Channel-FF0000?style=flat-square&logo=youtube&logoColor=white" />
-  </a>&nbsp;
-  <a href="https://orcid.org/0009-0001-6702-175X">
-    <img src="https://img.shields.io/badge/ORCID-0009--0001--6702--175X-A6CE39?style=flat-square&logo=orcid&logoColor=white" />
-  </a>
+<a href="mailto:dunuwilaanu@gmail.com">
+<img src="https://img.shields.io/badge/Email-Anurisha%20Dunuwila-red?style=flat-square&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;
+<a href="https://linkedin.com/in/anurisha-dunuwila">
+<img src="https://img.shields.io/badge/LinkedIn-Anurisha%20Dunuwila-blue?style=flat-square&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
+<a href="https://www.youtube.com/channel/UCVb5hLFqVkVhcro1zxLjVLw">
+<img src="https://img.shields.io/badge/YouTube-Channel-FF0000?style=flat-square&logo=youtube&logoColor=white" /></a>&nbsp;&nbsp;
+<a href="https://orcid.org/0009-0001-6702-175X">
+<img src="https://img.shields.io/badge/ORCID-0009--0001--6702--175X-A6CE39?style=flat-square&logo=orcid&logoColor=white" /></a>
 </p>
