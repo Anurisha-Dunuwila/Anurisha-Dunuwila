@@ -1,70 +1,97 @@
-<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" height="30px" width="30px" alt="hi">, I'm Anurisha Dunuwila</h1>
+<h1 align="center">
+  Hi
+  <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" height="30px" width="30px" alt="waving hand">,
+  I'm Anurisha Dunuwila
+</h1>
 
-<h3 align="center">My expertise includes robotics, automation and control systems, acoustics, simulation, and implementing mechanical designs.</h3>
-
-<h3 align="center">👩‍🏫Ph.D. Candidate @Virginia Polytechnic Institute and State University (Virginia Tech) </h3>
-<h3 align="center">👩‍🎓Graduate at Department of Mechanical Engineering (Specialized in Mechatronics) @University of Moratuwa, Sri Lanka</h3>
-<h3 align="center">👩‍💻Former Embedded Software Engineer @Robotic Assistance Devices, USA</h3>
-<h3 align="center">👩‍💻Trainee Automation Engineer @MAS Holdings Pvt Ltd, Sri Lanka</h3>
-  
-<!-- LANGUAGES -->
-<h4 align="center">Languages</h4>
 <p align="center">
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img style="margin: 5px;" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="40" height="40"/></a>
-  <a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img style="margin: 5px;" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="40" height="40"/></a>
-  <a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank" rel="noreferrer"><img style="margin: 5px;" src="https://upload.wikimedia.org/wikipedia/commons/0/00/AssemblyScript_logo_2020.svg" alt="Assembly / C" width="40" height="40"/></a>
-  <a href="https://www.ros.org/" target="_blank" rel="noreferrer"><img style="margin: 5px;" src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" alt="ROS" width="60" height="40"/></a>
-  <a href="https://www.qt.io/" target="_blank" rel="noreferrer"><img style="margin: 5px;" src="https://upload.wikimedia.org/wikipedia/commons/8/81/Qt_logo_neon_2022.svg" alt="Qt/QML" width="40" height="40"/></a>
+  <strong>Robotics · Automation & Control Systems · Acoustics · Simulation · Mechanical Design</strong>
 </p>
 
-<!-- PROGRAMMING TOOLS -->
-<h4 align="center">Programming Tools</h4>
 <p align="center">
-  <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"><img style="margin: 5px;" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" alt="PyCharm" width="40" height="40"/></a>
-  <a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img style="margin: 5px;" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter Notebook" width="40" height="40"/></a>
-  <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer"><img style="margin: 5px;" src="https://upload.wikimedia.org/wikipedia/commons/9/9b/Google_Colab_pic.png" alt="Google Colab" width="40" height="40"/></a>
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img style="margin: 5px;" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" alt="Arduino" width="40" height="40"/></a>
-  <a href="https://nodered.org/" target="_blank" rel="noreferrer"><img style="margin: 5px;" src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Node-red-icon.png" alt="Node‑RED" width="40" height="40"/></a>
-  <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"><img style="margin: 5px;" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40"/></a>
+  PhD Candidate researching at the intersection of mechatronics, embedded systems, and intelligent automation.
 </p>
 
-<!-- DESIGN & MULTIMEDIA TOOLS -->
-<h4 align="center">Design &amp; Multimedia Tools</h4>
 <p align="center">
-  <a href="https://www.solidworks.com/" target="_blank" rel="noreferrer"><img style="margin: 5px;" src="https://img.icons8.com/?size=100&id=62397&format=png&color=000000" alt="SolidWorks" width="40" height="40"/></a>
-  <a href="https://www.ansys.com/" target="_blank" rel="noreferrer"><img style="margin: 5px;" src="https://upload.wikimedia.org/wikipedia/commons/1/14/Ansys_logo_%282019%29.svg" alt="ANSYS" width="60" height="40"/></a>
-  <a href="https://www.comsol.com/" target="_blank" rel="noreferrer"><img style="margin: 5px;" src="https://upload.wikimedia.org/wikipedia/commons/2/28/Comsol_logo.svg" alt="COMSOL" width="60" height="40"/></a>
-  <a href="https://amscope.com/" title="AMSCOPE"><img style="margin: 5px;" src="https://yt3.googleusercontent.com/Ll2B094PXZQHzhY4uErpF297-QWyOdqqTT7FjsyS4M80hnRBf9OPe9yQNVzgkO5AaZz8Z1iv_g=s900-c-k-c0x00ffffff-no-rj" alt="AMSCOPE" width="40" height="40"/></a>
-  <a href="https://www.autodesk.com/products/3ds-max/" target="_blank" rel="noreferrer"><img style="margin: 5px;" src="https://cdn.worldvectorlogo.com/logos/3ds-max-full.svg" alt="3ds Max" width="40" height="40"/></a>
-  <a href="https://www.autodesk.com/products/autocad/overview" target="_blank" rel="noreferrer"><img style="margin: 5px;" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/autocad-icon.png" alt="AutoCAD" width="40" height="40"/></a>
-  <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"><img style="margin: 5px;" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="Photoshop" width="40" height="40"/></a>
-  <a href="https://hexagon.com/products/product-groups/computer-aided-engineering-software/adams" title="ADAMS"><img style="margin: 5px;" src="https://cdn.worldvectorlogo.com/logos/adams.svg" alt="ADAMS" width="40" height="40"/></a>
-  <a href="https://www.labcenter.com/" title="Proteus"><img style="margin: 5px;" src="https://upload.wikimedia.org/wikipedia/en/5/5a/Proteus_Design_Suite_Atom_Logo.png" alt="Proteus" width="40" height="40"/></a>
-  <a href="https://www.ni.com/en-us/shop/labview.html" target="_blank" rel="noreferrer"><img style="margin: 5px;" src="https://vectorseek.com/wp-content/uploads/2023/08/Labview-Logo-Vector.svg-.png" alt="LabVIEW" width="40" height="40"/></a>
-  <a href="https://www.shotcut.org/" target="_blank" rel="noreferrer"><img style="margin: 5px;" src="https://www.shotcut.org/assets/img/media/shotcut-logo-512x512.png" alt="Shotcut" width="40" height="40"/></a>
+  <code>PhD Candidate & Graduate Research Assistant</code> ·
+  <code>Virginia Polytechnic Institute and State University (Virginia Tech)</code>
 </p>
 
-<!-- OPERATING SYSTEMS -->
-<h4 align="center">Operating Systems</h4>
 <p align="center">
-  <a href="https://www.microsoft.com/windows" target="_blank" rel="noreferrer"><img style="margin: 5px;" src="https://upload.wikimedia.org/wikipedia/commons/4/48/Windows_logo_-_2012_%28dark_blue%29.svg" alt="Windows" width="40" height="40"/></a>
-  <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img style="margin: 5px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/UbuntuCoF.svg/1024px-UbuntuCoF.svg.png" alt="Ubuntu" width="40" height="40"/></a>
-  <a href="https://www.kernel.org/" target="_blank" rel="noreferrer"><img style="margin: 5px;" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Linux (Tux)" width="40" height="40"/></a>
+  Former <strong>Embedded Software Engineer</strong> at Robotic Assistance Devices, USA ·
+  Former <strong>Trainee Automation Engineer</strong> at MAS Holdings Pvt Ltd, Sri Lanka ·
+  Graduate in <strong>Mechanical Engineering (Mechatronics)</strong> at University of Moratuwa, Sri Lanka
 </p>
 
+---
 
-<div>
-  <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anurisha-dunuwila&show_icons=true&locale=en&layout=compact&theme=dark&border_color=FFFFFF" alt="dulaj-kavinda" /></p>
-</div>
+<h3 align="center">Languages</h3>
 
-<h4 align="center">Connect with me</h4>
 <p align="center">
-  <a href="mailto:dunuwilaanu@gmail.com" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png?20221017173631" alt="Email" height="25" width="35" /></a>
-  <a href="https://linkedin.com/in/anurisha-dunuwila" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/channel/UCVb5hLFqVkVhcro1zxLjVLw" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
-  <a href="https://orcid.org/0009-0001-6702-175X" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" alt="ORCID" height="30" width="40" /></a>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"   width="48" height="48" alt="Python"  style="object-fit:contain; margin:6px"/>&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"    width="48" height="48" alt="C++"     style="object-fit:contain; margin:6px"/>&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg"         width="48" height="48" alt="C#"      style="object-fit:contain; margin:6px"/>&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg"             width="48" height="48" alt="ROS"     style="object-fit:contain; margin:6px"/>&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/Qt_logo_neon_2022.svg"    width="48" height="48" alt="Qt"      style="object-fit:contain; margin:6px"/>
 </p>
 
+---
 
+<h3 align="center">Programming Tools</h3>
 
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg"       width="48" height="48" alt="PyCharm"      style="object-fit:contain; margin:6px"/>&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg"        width="48" height="48" alt="Jupyter"      style="object-fit:contain; margin:6px"/>&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/Google_Colab_pic.png"    width="48" height="48" alt="Google Colab" style="object-fit:contain; margin:6px"/>&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg"        width="48" height="48" alt="Arduino"      style="object-fit:contain; margin:6px"/>&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Node-red-icon.png"       width="48" height="48" alt="Node-RED"     style="object-fit:contain; margin:6px"/>&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png"         width="48" height="48" alt="MATLAB"       style="object-fit:contain; margin:6px"/>
+</p>
 
+---
+
+<h3 align="center">Design &amp; Multimedia Tools</h3>
+
+<p align="center">
+  <img src="https://img.icons8.com/?size=100&id=62397&format=png&color=000000"                                    width="48" height="48" alt="SolidWorks"  style="object-fit:contain; margin:6px"/>&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/14/Ansys_logo_%282019%29.svg"                        width="48" height="48" alt="ANSYS"        style="object-fit:contain; margin:6px"/>&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/28/Comsol_logo.svg"                                  width="48" height="48" alt="COMSOL"       style="object-fit:contain; margin:6px"/>&nbsp;&nbsp;
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/autocad-icon.png"        width="48" height="48" alt="AutoCAD"      style="object-fit:contain; margin:6px"/>&nbsp;&nbsp;
+  <img src="https://i.ibb.co/tP35wGRX/circuit-maker-logo.jpg"                                                     width="48" height="48" alt="CircuitMaker" style="object-fit:contain; margin:6px"/>&nbsp;&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/3ds-max-full.svg"                                               width="48" height="48" alt="3ds Max"      style="object-fit:contain; margin:6px"/>&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg"                    width="48" height="48" alt="Illustrator"  style="object-fit:contain; margin:6px"/>&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg"                      width="48" height="48" alt="Photoshop"    style="object-fit:contain; margin:6px"/>&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/labview/FFDB00"                                                           width="48" height="48" alt="LabVIEW"      style="object-fit:contain; margin:6px"/>&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/en/5/5a/Proteus_Design_Suite_Atom_Logo.png"                    width="48" height="48" alt="Proteus"      style="object-fit:contain; margin:6px"/>&nbsp;&nbsp;
+  <img src="https://www.shotcut.org/assets/img/media/shotcut-logo-512x512.png"                                    width="48" height="48" alt="Shotcut"      style="object-fit:contain; margin:6px"/>&nbsp;&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/adams.svg"                                                      width="48" height="48" alt="MSC Adams"    style="object-fit:contain; margin:6px"/>
+</p>
+
+---
+
+<h3 align="center">Operating Systems</h3>
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Windows_logo_-_2012_%28dark_blue%29.svg"  width="48" height="48" alt="Windows" style="object-fit:contain; margin:6px"/>&nbsp;&nbsp;
+  <img src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png"                                      width="48" height="48" alt="Ubuntu"  style="object-fit:contain; margin:6px"/>&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg"                                  width="48" height="48" alt="Linux"   style="object-fit:contain; margin:6px"/>
+</p>
+
+<hr style="border:none; border-top:1px solid #e0e0e0; margin:24px 0"/>
+
+<h3 align="center">Connect</h3>
+
+<p align="center">
+  <a href="mailto:dunuwilaanu@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Anurisha%20Dunuwila-red?style=flat-square&logo=gmail&logoColor=white" />
+  </a>&nbsp;
+  <a href="https://linkedin.com/in/anurisha-dunuwila">
+    <img src="https://img.shields.io/badge/LinkedIn-Anurisha%20Dunuwila-blue?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>&nbsp;
+  <a href="https://www.youtube.com/channel/UCVb5hLFqVkVhcro1zxLjVLw">
+    <img src="https://img.shields.io/badge/YouTube-Channel-FF0000?style=flat-square&logo=youtube&logoColor=white" />
+  </a>&nbsp;
+  <a href="https://orcid.org/0009-0001-6702-175X">
+    <img src="https://img.shields.io/badge/ORCID-0009--0001--6702--175X-A6CE39?style=flat-square&logo=orcid&logoColor=white" />
+  </a>
+</p>
